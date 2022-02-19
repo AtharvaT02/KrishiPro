@@ -1,4 +1,5 @@
 # KrishiPro
 
 #Signup Page
-![alt text](https://drive.google.com/file/d/1unpIzuZyRAp-MXRADNWROp1SiHgUL4xs/view?usp=sharing)
+
+![signup](https://user-images.githubusercontent.com/78020071/154800072-a9c64d11-5215-40f7-984e-89710ab7b054.png)
