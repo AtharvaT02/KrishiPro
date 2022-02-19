@@ -1,0 +1,67 @@
+html{
+    margin: 0;
+    padding: 0;    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    height: 100vh;
+    width: 100vw;
+    background-color: #87D4FF;
+    color: white;
+}
+
+.containerlot{
+    position: absolute;
+    right: 0;
+    top: -10%;
+    height: 55vh;
+    width: 55vh;
+}
+
+.logo{
+    padding: 2.5vw;
+}
+.logo img{
+    height: 9vh;
+
+}
+
+.joinus{
+    position: absolute;
+    padding: 2vw;
+    top: 40%;
+    left: 0;
+    line-height: 3.7vh;
+    font-size: 1.8vw;
+    font-weight: 500;
+}
+
+.joinus span{
+    font-size: 2.5vw;
+    font-weight: 700;
+    color: #FF8A00;
+}
+
+.img1{
+    position: absolute;
+    padding: 0.2vw;
+    bottom: 0;
+    left: 0;
+}
+.img1 img{
+    height: 20vw;
+}
+.img2{
+    position: absolute;
+    padding: 0.2vw;
+    bottom: 0;
+    right: 0;
+}
+.img2 img{
+    height: 25vw;
+}
